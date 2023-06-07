@@ -1,0 +1,11 @@
+C:\Users\kemal-noadmin\source\repos\Calculator_v2\Calculator_v2\bin\Debug\Calculator_v2.exe.config
+C:\Users\kemal-noadmin\source\repos\Calculator_v2\Calculator_v2\bin\Debug\Calculator_v2.exe
+C:\Users\kemal-noadmin\source\repos\Calculator_v2\Calculator_v2\bin\Debug\Calculator_v2.pdb
+C:\Users\kemal-noadmin\source\repos\Calculator_v2\Calculator_v2\obj\Debug\Calculator_v2.csproj.AssemblyReference.cache
+C:\Users\kemal-noadmin\source\repos\Calculator_v2\Calculator_v2\obj\Debug\Calculator_v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kemal-noadmin\source\repos\Calculator_v2\Calculator_v2\obj\Debug\Calculator_v2.Calculator.resources
+C:\Users\kemal-noadmin\source\repos\Calculator_v2\Calculator_v2\obj\Debug\Calculator_v2.Properties.Resources.resources
+C:\Users\kemal-noadmin\source\repos\Calculator_v2\Calculator_v2\obj\Debug\Calculator_v2.csproj.GenerateResource.cache
+C:\Users\kemal-noadmin\source\repos\Calculator_v2\Calculator_v2\obj\Debug\Calculator_v2.csproj.CoreCompileInputs.cache
+C:\Users\kemal-noadmin\source\repos\Calculator_v2\Calculator_v2\obj\Debug\Calculator_v2.exe
+C:\Users\kemal-noadmin\source\repos\Calculator_v2\Calculator_v2\obj\Debug\Calculator_v2.pdb
